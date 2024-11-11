@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"><b>4 Commits </b><img src="https://tenor.com/view/cry-blacknoob-waah-wah-ueee-gif-3513992683220693199" width="35"></h1>
 
 <!--
 **DJ-RV/DJ-RV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
