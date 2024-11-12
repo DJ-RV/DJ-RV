@@ -1,8 +1,6 @@
-<h1 align="center"><b>4 Commits <img src="azumanga-daioh.gif" width="50"></b></h1>
+<h1 align="center"><img src="azumanga-daioh.gif" width="25"><b> 4 Commits <img src="azumanga-daioh.gif" width="25"></b></h1>
 
-<p align="center">
 
-</p>
 
 
 
