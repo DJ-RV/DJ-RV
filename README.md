@@ -1,7 +1,7 @@
-<h1 align="center"><b>4 Commits</b></h1>
+<h1 align="center"><b>4 Commits <img src="azumanga-daioh.gif" width="50"></b></h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/NpATWgCGJVn9K/giphy.gif?cid=ecf05e47qf7yt8jlr0ujw5xs6juh28i7jfjghnov2tnc2svi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" class="center">
+
 </p>
 
 
