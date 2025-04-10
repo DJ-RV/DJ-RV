@@ -1,7 +1,5 @@
 <h1 align="center"><img src="azumanga-daioh.gif" width="25"><b> 4 Commits <img src="azumanga-daioh.gif" width="25"></b></h1>
-<p align ="center">
-  <img src="object1.svg">
-</p>
+
 
 
 
