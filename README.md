@@ -2,7 +2,7 @@
 
 **`> Undergraduate Civil Software Engineering Student <`**
 
-Hi! im reworkign my github profile and i've got no idea of what to put here!
+Hi! im reworking my github profile and i've got no idea of what to put here!
 
 ## My Skillset
 
