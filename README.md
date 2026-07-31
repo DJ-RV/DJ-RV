@@ -2,7 +2,16 @@
 
 **`> Undergraduate Civil Software Engineering Student <`**
 
-Hi! im reworking my github profile and i've got no idea of what to put here!
+Hi! im Diego Ravanal.
+
+Im interested in developing inteligent systems for data tracking, highly specialized software for cientific research,
+automated robotics and maybe videogames.
+
+My goals are to work on automated machines in high risk operations, and overall
+helping further cientific advancements.
+
+Im young and inexperienced, and my goals tall...
+So im working on it!
 
 ## My Skillset
 
